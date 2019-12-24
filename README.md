@@ -1,2 +1,2 @@
 # pruebas
-pimer-repositorio
+primer-repositorio
